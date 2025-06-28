@@ -1,9 +1,8 @@
-[![MasterHead](https://lerablog.org/wp-content/uploads/2020/08/Data-Science.jpg)](https://beyondbooks2116.netlify.app/)
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">A Data Science enthusiast at the Indian Statistical Institute (ISI) in Kolkata.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 👨‍💻 All of my projects are available at [https://beyondbooks2116.netlify.app/categories/machine-learning/](https://beyondbooks2116.netlify.app/categories/machine-learning/)
+- 👨‍💻 All of my projects are available at [https://beyondbooks2116.netlify.app/tags/project/](https://beyondbooks2116.netlify.app/tags/project/)
 
 - 📝 I write articles on [https://beyondbooks2116.netlify.app/](https://beyondbooks2116.netlify.app/)
 
