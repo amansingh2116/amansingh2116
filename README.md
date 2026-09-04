@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Repositories-9-38bdf8?style=flat-square&logo=github" alt="Repos" />
   <img src="https://img.shields.io/badge/Stars%20Earned-2-f59e0b?style=flat-square&logo=apachespark" alt="Stars" />
-  <img src="https://img.shields.io/badge/Starred%20Repos-23-ec4899?style=flat-square&logo=star" alt="Starred" />
+  <img src="https://img.shields.io/badge/Starred%20Repos-24-ec4899?style=flat-square&logo=star" alt="Starred" />
   <img src="https://img.shields.io/badge/Open_Source_PRs-1-10b981?style=flat-square&logo=git" alt="PRs" />
 </p>
 
@@ -203,7 +203,7 @@ Data Science & Quantitative Researcher associated with the **Indian Statistical 
 </p>
 
 <div align="center">
-  <sub>⚡ <i>This profile README is automatically kept up-to-date with live repository statistics & deployments via <a href=".github/workflows/update-readme.yml">GitHub Actions</a>. Last sync: September 03, 2026.</i></sub>
+  <sub>⚡ <i>This profile README is automatically kept up-to-date with live repository statistics & deployments via <a href=".github/workflows/update-readme.yml">GitHub Actions</a>. Last sync: September 04, 2026.</i></sub>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0f172a,50:0284c7,100:38bdf8&height=70&section=footer" width="100%" alt="Footer" />
 </div>
