@@ -203,7 +203,7 @@ Data Science & Quantitative Researcher associated with the **Indian Statistical 
 </p>
 
 <div align="center">
-  <sub>⚡ <i>This profile README is automatically kept up-to-date with live repository statistics & deployments via <a href=".github/workflows/update-readme.yml">GitHub Actions</a>. Last sync: September 04, 2026.</i></sub>
+  <sub>⚡ <i>This profile README is automatically kept up-to-date with live repository statistics & deployments via <a href=".github/workflows/update-readme.yml">GitHub Actions</a>. Last sync: September 05, 2026.</i></sub>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0f172a,50:0284c7,100:38bdf8&height=70&section=footer" width="100%" alt="Footer" />
 </div>
