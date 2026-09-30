@@ -187,7 +187,7 @@ Data Science & Quantitative Researcher associated with the **Indian Statistical 
   </table>
   
   <br />
-  <img src="https://raw.githubusercontent.com/amansingh2116/amansingh2116/main/assets/github-activity-graph.svg?cache_bust=20260930082620" width="100%" alt="Aman Singh's GitHub activity graph" />
+  <img src="https://raw.githubusercontent.com/amansingh2116/amansingh2116/main/assets/github-activity-graph.svg?cache_bust=20260930082832" width="100%" alt="Aman Singh's GitHub activity graph" />
 </div>
 
 ---
