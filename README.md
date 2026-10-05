@@ -187,7 +187,7 @@ Data Science & Quantitative Researcher associated with the **Indian Statistical 
   </table>
   
   <br />
-  <img src="https://raw.githubusercontent.com/amansingh2116/amansingh2116/main/assets/github-activity-graph.svg?cache_bust=20261004041123" width="100%" alt="Aman Singh's GitHub activity graph" />
+  <img src="https://raw.githubusercontent.com/amansingh2116/amansingh2116/main/assets/github-activity-graph.svg?cache_bust=20261005035520" width="100%" alt="Aman Singh's GitHub activity graph" />
 </div>
 
 ---
@@ -203,7 +203,7 @@ Data Science & Quantitative Researcher associated with the **Indian Statistical 
 </p>
 
 <div align="center">
-  <sub>⚡ <i>This profile README is automatically kept up-to-date with live repository statistics & deployments via <a href=".github/workflows/update-readme.yml">GitHub Actions</a>. Last sync: October 04, 2026.</i></sub>
+  <sub>⚡ <i>This profile README is automatically kept up-to-date with live repository statistics & deployments via <a href=".github/workflows/update-readme.yml">GitHub Actions</a>. Last sync: October 05, 2026.</i></sub>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0f172a,50:0284c7,100:38bdf8&height=70&section=footer" width="100%" alt="Footer" />
 </div>
